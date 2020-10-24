@@ -8,6 +8,7 @@
 
 .text-responsive-title {
   font-size: calc(100% + 5vw + 5vh);
+  font-family: sans-serif, Geneva, Verdana;
 }
 
 /* .home-title {
