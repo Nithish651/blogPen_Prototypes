@@ -1,0 +1,19 @@
+.navbar {
+  border-bottom: 1px solid gray;
+}
+
+.text-responsive {
+  font-size: calc(100% + 1vw + 1vh);
+}
+
+.text-responsive-title {
+  font-size: calc(100% + 5vw + 5vh);
+}
+
+/* .home-title {
+  font-size: 7.5rem !important;
+}*/
+
+.home-sub-title {
+  font-size: 20px;
+}
